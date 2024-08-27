@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+}
+#lists{
+    /* display: flex; */
+    font-size: 22px;
+
+}
+.title{
+    margin: 20px;
+}

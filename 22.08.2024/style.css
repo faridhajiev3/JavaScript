@@ -1,0 +1,29 @@
+.boks{
+    display: flex;
+}
+.box{
+    width: 150px;
+    height: 150px;
+    border: 1px solid #000;
+}
+.boxx{
+    width: 150px;
+    height: 150px;
+    border: 1px solid #000;
+}
+.red{
+    background-color: #e51414;
+}
+.yellow{
+    background-color: #17e514;
+}
+.minibox{
+    width: 150px;
+    height: 150px;
+    border: 1px solid #000;
+}
+.miniboxx{
+    width: 150px;
+    height: 150px;
+    border: 1px solid #000;
+}
